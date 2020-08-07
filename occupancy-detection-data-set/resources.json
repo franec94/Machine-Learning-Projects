@@ -23,6 +23,10 @@
         {
             "Title": "Dimensionality Reduction with Neighborhood Components Analysis",
             "Web-Link": "https://scikit-learn.org/stable/auto_examples/neighbors/plot_nca_dim_reduction.html#sphx-glr-auto-examples-neighbors-plot-nca-dim-reduction-py",
+        },
+        {
+            "Title": "Model selection with Probabilistic PCA and Factor Analysis (FA)",
+            "Web-Link": "https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_vs_fa_model_selection.html#sphx-glr-auto-examples-decomposition-plot-pca-vs-fa-model-selection-py"
         }
     ]
 }
